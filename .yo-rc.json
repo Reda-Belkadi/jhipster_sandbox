@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.eurekles.sandbox"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "jhipster_sandbox",
+    "packageName": "com.eurekles.sandbox",
+    "packageFolder": "com/eurekles/sandbox",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NWY4ZjM3MGYzYjBhMTdiZGRhZjEwN2IwOTk3ZTIyMTliZGJlMTg5OWJmMzIzZjEwOGI1NTA2YTAwMzRlMGIwODMzMDgyYmNlZmMwZmRjNjE3ZjRkNjEyNzFlNmU5MjA4ZWE3MDVjZDExYjZmOGI0NzliZDAwODBlZmVmZjg2N2I=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "superhero",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1598963667856,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
